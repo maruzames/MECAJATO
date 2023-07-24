@@ -35,7 +35,9 @@ Vamos criar um super usuario para admin
 
 		 python manage.py createsuperuser
 
-# USER: maruz PWRD: MARUZ1972
+Vamos criar
+
+
 
 
 
