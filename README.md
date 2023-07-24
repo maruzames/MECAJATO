@@ -27,3 +27,16 @@ Vamos só conferir rodando o servidor
 
 		 python manage.py runserver	
 
+Fazer a Migração 
+
+		 python manage.py migrate
+
+Vamos criar um super usuario para admin
+
+		 python manage.py createsuperuser
+
+# Usuário (leave blank to use 'maruz'):
+# Endereço de email: maruzames@gmail.com
+# Password: MARUZ1972
+
+
