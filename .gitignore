@@ -3,6 +3,7 @@
 
 # Ignore Byte-compiled / Optimized / DLL files
 __pycache__/
+__init__.py
 
 # Ignora pasta da maquina virtual
 /venv/
